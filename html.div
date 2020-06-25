@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.myDiv {
+  border: 5px outset blue;
+  background-color: lightyellow;    
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>HELLO WORLD</h1>
+
+<div class="myDiv">
+  <h2>glad to meet you all</h2>
+  <p>I am very exicted today</p>
+</div>
+
+<p>THANK YOU EVERYONE :)</p>
+
+</body>
+</html>
+
