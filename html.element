@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>SMEC FORM </h2>
+
+<form action="https://www.smec.ac.in/">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="fname">last name:</label><br>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="fname">Mobile number:</label><br>
+  <input type="text" id="fname" name="fname"><br><br>
+  
+  <input type="radio" id="Bachelor of engineering" name="Btech" value="">
+  <label for="Bachelor of engineering">BTECH</label><br>
+  <input type="radio" id="other" name="Other" value="other">
+  <label for="other">Other</label>
+
+  <label for="BTech">Choose a stream:</label>
+  <select id="BTech" name="stream">
+    <option value="CSE">CSE</option>
+    <option value="ECE">ECE</option>
+    <option value="EEE">EEE</option>
+    <option value="MECH">MECH</option>
+    <option value="CIVIL">CIVIL</option>
+    <option value="OTHER">OTHER</option>
+  
+
+
+
+  <p><input type="submit" value="Submit"></P>
+  
+</form>
+
+</body>
+</html>
+
